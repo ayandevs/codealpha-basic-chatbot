@@ -2,7 +2,7 @@ print("="*23)
 print("Basic Chatbot (Jarvis)")
 print("="*23)
 
-print("\nAsk me any of these 5 questions from Jarvis : \n")
+print("\nAsk any of these 5 questions from Jarvis : \n")
 
 print('''
       Question 01 : Hi
